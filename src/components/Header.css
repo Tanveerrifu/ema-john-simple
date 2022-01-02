@@ -1,0 +1,19 @@
+.Logo {
+    width: 25%;
+    margin-top: 20px;
+}
+
+nav {
+    margin-top: 30px;
+    background-color: black;
+    padding: 15px;
+}
+nav a {
+    color: wheat;
+    margin-right: 40px;
+    text-decoration: none;
+    padding: 15px;
+}
+nav a:hover {
+    background-color: gray;
+}
